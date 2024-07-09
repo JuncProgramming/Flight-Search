@@ -1,4 +1,4 @@
-package com.junclabs.flightsearch.ui.theme
+package com.junclabs.flightsearch.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
